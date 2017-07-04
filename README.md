@@ -1,6 +1,5 @@
 # Webpack Starter
 
-
 ## Prerequisites
 
 1. install [nodejs](http://nodejs.org)
